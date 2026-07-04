@@ -4,15 +4,7 @@ An accessibility-focused mobile application designed to help hearing and speech-
 
 Developed as a solution for Smart India Hackathon 2024.
 
----
 
-## 📸 Application Preview
-
-<p align="center">
-  <img src="dashboard_image.png" alt="Application Preview" width="900">
-</p>
-
----
 
 ## 🏆 Smart India Hackathon 2024
 
